@@ -1,0 +1,13 @@
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.exe
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.deps.json
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.runtimeconfig.json
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.runtimeconfig.dev.json
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.dll
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\bin\Debug\netcoreapp3.1\NumbersGame.pdb
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csprojAssemblyReference.cache
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfoInputs.cache
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.AssemblyInfo.cs
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.csproj.CoreCompileInputs.cache
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.dll
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.pdb
+C:\Users\moreg\Documents\Codefellows\401\Lab01a-ExceptionHandling\NumbersGame\NumbersGame\obj\Debug\netcoreapp3.1\NumbersGame.genruntimeconfig.cache
