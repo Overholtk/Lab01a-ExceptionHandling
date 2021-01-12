@@ -12,9 +12,15 @@ Run the program in visual studio by selecting file - open - Project/Solution, th
 
 Application Start:
 
+![Start](https://github.com/Overholtk/Lab01a-ExceptionHandling/assets/1.png)
+
 Using the Application:
 
+![Using](https://github.com/Overholtk/Lab01a-ExceptionHandling/assets/2.png)
+
 Application End:
+
+![End](https://github.com/Overholtk/Lab01a-ExceptionHandling/assets/3.png)
 
 
 ### Changelog:
